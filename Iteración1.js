@@ -5,5 +5,5 @@ function sum(numberOne, numberTwo){
     return numberTwo;
   }
 }
-sum(8, 9);
-sum(3, 7);
+console.log(sum(8, 9));
+console.log(sum(3, 7));
