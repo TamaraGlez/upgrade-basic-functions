@@ -1,4 +1,4 @@
-function sum(numberOne, numberTwo) {
+function sum(numberOne, numberTwo){
   if (numberOne > numberTwo) {
     return numberOne;
   } else {
