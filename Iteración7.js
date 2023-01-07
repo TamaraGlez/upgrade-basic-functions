@@ -1,4 +1,4 @@
-// parametro=array,  si existes dos elementos iguales, nos devolverá la posición de ese elemento  y por la contra un false
+// lo he sacado mirando las respuesta me ha costado
 const nameFinder = [
     'Peter',
     'Steve',
